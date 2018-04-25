@@ -27,13 +27,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8AD22FBC03E748A786DECC7FD37F0576"
+        "MsmKey" = "8:_66A762FA008F44589E21EE66AEF3F7EB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DC3CBEF3934A403E919684A4E213E7B4"
+        "MsmKey" = "8:_8AD22FBC03E748A786DECC7FD37F0576"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -158,12 +158,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8AD22FBC03E748A786DECC7FD37F0576"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66A762FA008F44589E21EE66AEF3F7EB"
             {
-            "SourcePath" = "8:..\\..\\MPS\\MPSystem\\Data\\MPS_DB.mdf"
-            "TargetName" = "8:MPS_DB.mdf"
+            "SourcePath" = "8:..\\..\\MPS\\MPSystem\\mpsicon.ico"
+            "TargetName" = "8:mpsicon.ico"
             "Tag" = "8:"
-            "Folder" = "8:_AA2FE50A29454B279532E12C33AA52A1"
+            "Folder" = "8:_98ED8447A2BD457FA8BE0B5C26D63277"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -178,12 +178,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DC3CBEF3934A403E919684A4E213E7B4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8AD22FBC03E748A786DECC7FD37F0576"
             {
-            "SourcePath" = "8:..\\..\\.ico file\\mpsicon.ico"
-            "TargetName" = "8:mpsicon.ico"
+            "SourcePath" = "8:..\\..\\MPS\\MPSystem\\Data\\MPS_DB.mdf"
+            "TargetName" = "8:MPS_DB.mdf"
             "Tag" = "8:"
-            "Folder" = "8:_98ED8447A2BD457FA8BE0B5C26D63277"
+            "Folder" = "8:_AA2FE50A29454B279532E12C33AA52A1"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -397,7 +397,7 @@
             "Target" = "8:_65AA34DA840041E7BE424F60E98AED08"
             "Folder" = "8:_98ED8447A2BD457FA8BE0B5C26D63277"
             "WorkingFolder" = "8:_98ED8447A2BD457FA8BE0B5C26D63277"
-            "Icon" = "8:_DC3CBEF3934A403E919684A4E213E7B4"
+            "Icon" = "8:_66A762FA008F44589E21EE66AEF3F7EB"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F9A9393C9A93445285AC2B1109D31D5D"
@@ -411,7 +411,7 @@
             "Target" = "8:_65AA34DA840041E7BE424F60E98AED08"
             "Folder" = "8:_9622AB4E331749CA83ADCB3243F7CB31"
             "WorkingFolder" = "8:_98ED8447A2BD457FA8BE0B5C26D63277"
-            "Icon" = "8:_DC3CBEF3934A403E919684A4E213E7B4"
+            "Icon" = "8:_66A762FA008F44589E21EE66AEF3F7EB"
             "Feature" = "8:"
             }
         }
